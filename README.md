@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View Code](https://your-solution-url.com)
-- Live Site URL: [Visit Site](https://your-live-site-url.com)
+- Solution URL: [View Code]https://github.com/Pradeep743/Challenge-Interactive-rating-component)
+- Live Site URL: [Visit Site](https://pradeep743.github.io/Challenge-Interactive-rating-component/)
 
 ## My process
 
