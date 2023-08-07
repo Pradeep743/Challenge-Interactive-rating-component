@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View Code]https://github.com/Pradeep743/Challenge-Interactive-rating-component)
+- Solution URL: [View Code](https://github.com/Pradeep743/Challenge-Interactive-rating-component)
 - Live Site URL: [Visit Site](https://pradeep743.github.io/Challenge-Interactive-rating-component/)
 
 ## My process
